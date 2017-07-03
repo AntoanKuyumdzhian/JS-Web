@@ -1,0 +1,14 @@
+{
+  "name": "memorymodule",
+  "version": "0.0.1",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "storage"
+  ],
+  "author": "AK",
+  "license": "MIT"
+}
